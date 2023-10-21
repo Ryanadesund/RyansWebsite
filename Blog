@@ -1,4 +1,1 @@
-var welcome = "Welcome to my blog";
-
-console.log(welcome)
 
